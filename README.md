@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mauricio Contreras</h1>
 <h3 align="center">A passionate programmer from Colombia</h3>
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p>
+
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Javascript and Flask
 - 👯 I’m looking to collaborate on full stack
