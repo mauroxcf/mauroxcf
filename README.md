@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauricio Contreras</h1>
 <h3 align="center">A passionate programmer from Colombia</h3>
 
-![Alt Text](https://giphy.com/embed/13HgwGsXF0aiGY)
+![Alt Text](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Javascript and Flask
